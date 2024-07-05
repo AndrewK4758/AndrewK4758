@@ -26,6 +26,17 @@ These are my main areas of strength. If you would like to see current resume, cl
   
 ## Repository Descriptions
 
-### javascript, practice-structy
+ **BGDK (Board Game Development Kit)**
+  - This is my main portfolio project where I am implementing what I have learned throughout my journey.
+  - Please feel free to check it out [here](https://github.com/AndrewK4758/BGDK).
+
+ **javascript, practice-structy, Data-Struct-Aglos**
+  - These are general practice from FreeCodeCamp, Structy, LeetCode (and the like)
+  - Not in too much of an organized order, just wanted somewhere I could reference when needed
+
+ **end2end-2024, chutes_and_ladders, code-challenge-10-18-2023**
+  - These are the repositories from Woodstock Developers Group [WDG](https://woodstock.dev). They my main community group.
+  - They range from DSA, OOP design patterns, and a full bottoms up approach to designing a modern enterprise end to end web app.
+
 
 
