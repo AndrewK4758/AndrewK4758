@@ -21,7 +21,7 @@ These are my main areas of strength. If you would like to see current resume, cl
   **Languages**
   -  Typescript / Node
   -  Python
-  -  A little C - to understand what is hapoening &uarr;
+  -  A little C - to understand what is happening &uarr;
   -  Fluent in Spanish as well :smirk:
 
   **Libraries / Frameworks**
