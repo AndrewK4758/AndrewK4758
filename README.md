@@ -5,7 +5,7 @@ My name is Andrew Klapper. While running a succesful freight brokerage, in 2019 
 ## Personal & Community Envolvement
 
  **Personal**
-  - I am 38 years old and I enjoy as much outdoor activites as I do with development.
+  - I am 39 years old and I enjoy as much outdoor activites as I do with development.
   - If I could have anything, and money was not a concern, I would have an off-grid, but on-line lifestyle. Contradictory, absolutely, but I feel the enjoyment of being self sufficent only helps build on the skills necessary to be a good problem solver, team player, and positive thinker.
 
 **Community**
