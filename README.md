@@ -16,7 +16,7 @@ My name is Andrew Klapper. While running a succesful freight brokerage, in 2019 
 
 ## Skills
 
-These are my main areas of strength. If you would like to see current resume, click [here](https://github.com/AndrewK4758/AndrewK4758/blob/main/Resume.pdf) 
+These are my main areas of strength. If you would like to see current resume, click [here](https://github.com/AndrewK4758/AndrewK4758/blob/main/andrew-klapper_resume.pdf) 
 
   **Languages**
   -  Typescript / Node
