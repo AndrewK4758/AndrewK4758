@@ -22,25 +22,16 @@ These are my main areas of strength. If you would like to see current resume, cl
   -  Typescript / Node
   -  Python
   -  A little C - to understand what is happening &uarr;
-  -  Fluent in Spanish as well :smirk:
-
-  **Libraries / Frameworks**
-  -  React / React Router 
-  -  Django
-  -  Flask
-  -  Jest
-
-  **Database**
-  -  PostgreSQL
-  -  MongoDB
-
-
+  -  Fluent in Spanish as well :smirk:  
   
 ## Repository Descriptions
 
- **BGDK (Board Game Development Kit)**
-  - This is my main portfolio project where I am implementing what I have learned throughout my journey.
-  - Please feel free to check it out [here](https://github.com/AndrewK4758/BGDK).
+ **aklapper (personal portfolio monorepo)**
+  - This is my portfolio project where I implement concepts I have learned throughout my journey.
+  - The monorepo organizes some of my other repos and projects into one.
+  - The languages are Typescript / NodeJs, Python, & Go
+  - They focus on React Front Ends, Dynamic Apis (REST / Websocket), Resusable Packages, SQL / NoSql Databases, Cloud Deployments using Docker, GitHub Actions & Google Cloud Run / AppEngine
+  - Please feel free to check it out [here](https://github.com/AndrewK4758/aklapper).
 
  **javascript, practice-structy, Data-Struct-Aglos**
   - These are general practice from FreeCodeCamp, Structy, LeetCode (and the like)
